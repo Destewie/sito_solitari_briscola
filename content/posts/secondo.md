@@ -1,6 +1,6 @@
 +++
 date = '2025-02-16T15:16:14+01:00'
-draft = true
+draft = false
 title = 'Mi sento perso'
 +++
 
